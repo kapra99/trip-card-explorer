@@ -159,6 +159,22 @@
             "description": "Famous swirling rock formation near the Utah border.",
             "long_description": "Hidden within the Paria Canyon–Vermilion Cliffs Wilderness, The Wave is a geological masterpiece of undulating sandstone. Its surreal patterns and vivid stripes draw photographers from around the world — though only a handful of daily visitors are permitted via lottery.",
             "rating": 5
+        },
+        {
+            "id": 21,
+            "name": "Test object",
+            "image": "https://www.shutterstock.com/image-vector/lorem-ipsum-dolor-tag-cloud-260nw-1103263931.jpg",
+            "description": "Lorem ipsum dolor sin amet.",
+            "long_description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec sed neque scelerisque, maximus nulla nec, blandit dui. Aliquam hendrerit nulla nec ipsum tristique aliquam id ullamcorper ipsum. Vestibulum ipsum risus, volutpat at odio vel, semper finibus magna.",
+            "rating": 2
+        },
+        {
+            "id": 22,
+            "name": "Lorem, Ipsum",
+            "image": "https://img.freepik.com/free-vector/lorem-ipsum-line-art-logo-design_779267-1640.jpg",
+            "description": "Lorem ipsum dolor sin amet.",
+            "long_description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec sed neque scelerisque, maximus nulla nec, blandit dui. Aliquam hendrerit nulla nec ipsum tristique aliquam id ullamcorper ipsum. Vestibulum ipsum risus, volutpat at odio vel, semper finibus magna.",
+            "rating": 1
         }
     ]
 }
