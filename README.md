@@ -1,16 +1,23 @@
-# React + Vite
+# 🗺️ Trip Card Explorer
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Trip Card Explorer is a small web app built with **Vite** and **React** that displays a list of trip destinations from a local JSON file.  
+Each trip is shown as a card with its name, image, short description, and rating. Users can search trips by name, sort them by rating, and view more information in a modal.
 
-Currently, two official plugins are available:
+---
+## 🚀 Getting Started
+## Used technologies:
+### -Vite, React, Bootstrap 5
+### 1. Clone the repository
+```bash
+git clone https://github.com/yourusername/trip-card-explorer.git
+```
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 How to Run the App
 
-## React Compiler
-
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+### 2. Install Dependencies
+```bash
+npm install
+```
+### 3. Run the app
+```bash
+npm run dev
